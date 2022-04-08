@@ -1,6 +1,6 @@
 # Dogs-vs.-Cats-with-CNN
 
-In This NoteBook , we will follow these 
+In this notebook , we will follow these 
 
 1. Explore the example data of Dogs vs. Cats
 1. Build and train a neural network to classify between the two pets
